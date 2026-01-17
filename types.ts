@@ -3,6 +3,7 @@ export enum AttendanceStatus {
   PRESENT = 'HADIR',
   LATE = 'TERLAMBAT',
   ABSENT = 'ALPA',
+  ALFA_FOTO = 'ALPA_FOTO',
   SICK = 'SAKIT',
   PERMISSION = 'IZIN',
   REJECTED = 'DITOLAK'
