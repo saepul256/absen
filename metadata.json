@@ -1,0 +1,8 @@
+{
+  "name": "SmartAbsensi SMAN 1 Caringin",
+  "description": "AI-powered student attendance system for SMAN 1 Caringin featuring face validation, location anomaly detection, and predictive behavior analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
